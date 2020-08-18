@@ -1,0 +1,24 @@
+.newsCards_grid {
+  padding: 0 5%;
+  width: 100%;
+  margin: 0;
+}
+
+
+.newsCards_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 45vh;
+  padding: 10%;
+  border-radius: 10px;
+  color: white;
+}
+
+.newsCards_infoCard {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
