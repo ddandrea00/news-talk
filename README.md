@@ -15,10 +15,10 @@
 ---
 
 ## Run
-
-> $ npm install
-> $ npm start
-
+```shell
+$ npm install
+$ npm start
+```
 ---
 
 ## Technology
